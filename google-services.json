@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "761380671199",
+    "firebase_url": "https://myfood-60bd8.firebaseio.com",
+    "project_id": "myfood-60bd8",
+    "storage_bucket": "myfood-60bd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761380671199:android:873da7b6e2cbd002",
+        "android_client_info": {
+          "package_name": "com.sayush.myfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761380671199-q9m76ns1a506b8n28libr394v889sbe9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sayush.myfood",
+            "certificate_hash": "25d6cdcfd6e1db247ca30a61e4a22ed6c9891f98"
+          }
+        },
+        {
+          "client_id": "761380671199-f8rk4dl7qm00dv7jqeb8qnocmiaivb7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAB5uaaaA97CyWtr7M_K_gT_HRhuCqodk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761380671199-f8rk4dl7qm00dv7jqeb8qnocmiaivb7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
